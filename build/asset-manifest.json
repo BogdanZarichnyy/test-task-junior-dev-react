@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-junior-dev-react/static/css/main.5ae49bce.css",
+    "main.js": "/test-task-junior-dev-react/static/js/main.9d1b30a8.js",
+    "index.html": "/test-task-junior-dev-react/index.html",
+    "main.5ae49bce.css.map": "/test-task-junior-dev-react/static/css/main.5ae49bce.css.map",
+    "main.9d1b30a8.js.map": "/test-task-junior-dev-react/static/js/main.9d1b30a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae49bce.css",
+    "static/js/main.9d1b30a8.js"
+  ]
+}
